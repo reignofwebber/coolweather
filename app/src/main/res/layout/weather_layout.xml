@@ -13,7 +13,7 @@
             android:layout_height="30dp"
             android:layout_centerVertical="true"
             android:layout_marginLeft="10dp"
-            android:text="切换"/>
+            android:background="@drawable/home"/>
 
         <TextView
             android:id="@+id/city_name"
@@ -29,7 +29,7 @@
             android:layout_alignParentRight="true"
             android:layout_centerVertical="true"
             android:layout_marginRight="10dp"
-            android:text="刷新"/>
+            android:background="@drawable/refresh"/>
     </RelativeLayout>
 
     <RelativeLayout
